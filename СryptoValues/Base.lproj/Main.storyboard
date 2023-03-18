@@ -282,10 +282,10 @@
         </scene>
     </scenes>
     <resources>
-        <image name="Oval" width="12" height="12"/>
+        <image name="Oval" width="50" height="50"/>
         <image name="Rectangle" width="375" height="219"/>
         <image name="Top Head Title" width="125" height="48.666667938232422"/>
-        <image name="User Icon" width="5" height="5.6666665077209473"/>
+        <image name="User Icon" width="21" height="23.666666030883789"/>
         <image name="aus" width="512" height="512"/>
         <image name="background" width="134" height="200"/>
         <image name="btc3" width="512" height="512"/>
