@@ -1,8 +1,8 @@
 # CryptoExchange  📈
 -----------------
-An application that shows the exchange rate of cryptocurrencies. 
-The update from the server takes place via the exchange API every set value (in this example, every 10 seconds). 
-The current exchange rate, the time of the update with the server, and the current date are displayed.
+- An application that shows the exchange rate of cryptocurrencies. 
+- The update from the server takes place via the exchange API every set value (in this example, every 10 seconds). 
+- vThe current exchange rate, the time of the update with the server, and the current date are displayed.
 
 Some screenshots:
 -----------------
